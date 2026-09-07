@@ -1,0 +1,26 @@
+.home-page {
+  min-height: calc(100vh - 58px);
+  background: var(--brown-mid);
+  display: grid;
+  place-items: center;
+  padding: 2rem 1rem;
+}
+
+.home-page__hero {
+  width: min(900px, 100%);
+  text-align: center;
+  padding: 4rem 1.5rem;
+}
+
+.home-page__title {
+  margin: 0 0 0.75rem;
+  font-size: clamp(2.6rem, 8vw, 4.4rem);
+  color: #111;
+  font-weight: 800;
+}
+
+.home-page__tagline {
+  margin: 0;
+  font-size: clamp(1.05rem, 2.8vw, 1.45rem);
+  color: var(--white);
+}

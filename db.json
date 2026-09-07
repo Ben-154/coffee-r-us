@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Morning Blend",
+      "description": "Smooth medium roast for everyday brewing.",
+      "origin": "Location 1",
+      "image": "https://images.unsplash.com/photo-1447933601403-0c6688de566e?w=400",
+      "price": 14.99
+    },
+    {
+      "id": 2,
+      "name": "Ethiopian Sunrise",
+      "description": "Bright floral notes with citrus finish.",
+      "origin": "Location 2",
+      "image": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=400",
+      "price": 18.5
+    },
+    {
+      "id": 3,
+      "name": "Colombian Classic",
+      "description": "Balanced body with chocolate undertones.",
+      "origin": "Location 1",
+      "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400",
+      "price": 16.25
+    },
+    {
+      "id": 4,
+      "name": "Kenyan Bold",
+      "description": "Full-bodied dark roast with berry accents.",
+      "origin": "Location 3",
+      "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=400",
+      "price": 17.75
+    },
+    {
+      "id": 5,
+      "name": "House Espresso",
+      "description": "Rich crema-friendly espresso blend.",
+      "origin": "Location 4",
+      "image": "https://images.unsplash.com/photo-1511920170033-f8396924c348?w=400",
+      "price": 15.0
+    },
+    {
+      "id": 6,
+      "name": "Vanilla Roast",
+      "description": "Gentle vanilla aroma with sweet finish.",
+      "origin": "Location 2",
+      "image": "https://images.unsplash.com/photo-1461023058949-9ce9a0a1a3e8?w=400",
+      "price": 13.4
+    },
+    {
+      "id": 7,
+      "name": "Mountain Dark",
+      "description": "Smoky dark roast for late nights.",
+      "origin": "Location 3",
+      "image": "https://images.unsplash.com/photo-1498804103079-a6351b050096?w=400",
+      "price": 19.99
+    },
+    {
+      "id": 8,
+      "name": "Cafe Latte Blend",
+      "description": "Creamy milk-friendly everyday roast.",
+      "origin": "Location 4",
+      "image": "https://images.unsplash.com/photo-1485808191679-5f86510681a2?w=400",
+      "price": 12.5
+    }
+  ]
+}
